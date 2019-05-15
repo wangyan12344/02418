@@ -1,0 +1,21 @@
+#zSlider{margin:0px auto; width:730px; overflow:hidden;}
+#picshow{position:relative;}
+#picshow,#picshow_img{width:399px; height:280px;  overflow:hidden; float:left;;list-style:none;}
+#picshow_img li{width:399px; height:280px; overflow:hidden; float:left; display:none;list-style-type:none;background:none}
+#picshow_img img{width:399px; height:280px; }
+#picshow_tx{left:0px; width:399px; bottom:0px; position:absolute; height:32px; overflow:hidden;list-style:none;}
+#picshow_tx li{padding:6px 30px; height:64px; color:#fff; display:none;list-style:none;background:none}
+#picshow_tx li a{color:#fff;list-style:none;}
+#picshow_tx li a:hover{text-decoration:none;color:#d70010;list-style-type:none;}
+#picshow_tx li h3{ margin:13px 0;list-style:none;list-style:none;}
+#picshow_tx li p{ color:#ccc; line-height:16px; height:16px; overflow:hidden;list-style:none;}
+#select_btn{width:306px; height:280px; color:#111; float:right; display:inline; background-color:#fff;}
+#select_btn li{padding:4px 1px 3px 10px; width:299px; height:32px; border-top:1px solid #fff; cursor:pointer;line-height:32px;}
+#select_btn li:hover{background-color:#f0f0f0;color:#d70010}
+#select_btn li.current{background-color:#f0f0f0;color:#d70010}
+#select_btn li.current:hover{background-color:#f0f0f0;color:#d70010}
+#select_btn a{color:#666;}
+#select_btn img{padding:2px; border:1px solid #ccc; width:70px; height:49px; margin-right:10px; float:left;}
+#select_btn .select_text{ height:32px; font:16px 'Microsoft YaHei'; overflow:hidden; display:block;float:left;line-height:32px;}
+#select_btn .select_text:hover{text-decoration:none;color:#d70010}
+#select_btn .select_date{ height:32px; line-height:32px; overflow:hidden; display:block;float:right;padding-right: 4px;}

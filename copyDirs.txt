@@ -1,0 +1,27 @@
+#    ----2017年06月06日11时52分14秒
+
+src\main\bp-business\com\zhiliang\business\controller\ZlGoodInfoController.java
+src\main\bp-business\com\zhiliang\business\service\ZlGoodInfoService.java
+src\main\bp-persistence\com\zhiliang\persistence\dao\ZlMemberDAO.java
+
+
+#    ----2017年06月06日13时13分54秒
+
+src\main\bp-persistence\com\zhiliang\persistence\dao\ZlShopUserVipDAO.java
+
+
+#    ----2017年06月06日13时14分00秒
+
+src\main\bp-business\com\zhiliang\business\service\ZlShopUserVipService.java
+
+
+#    ----2017年06月06日13时15分10秒
+
+src\main\bp-persistence\com\zhiliang\persistence\entity\ZlShopUserVip.java
+
+
+#    ----2017年06月09日14时29分43秒
+
+src\main\bp-business\com\zhiliang\business\app\Controller\AppZlGoodInfoController.java
+
+
